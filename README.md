@@ -1,1 +1,1 @@
-https://matuzalema.github.io/contact-form-react/
+https://matuzalema.github.io/app-in-react-contact-form/
